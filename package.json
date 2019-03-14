@@ -1,0 +1,24 @@
+{
+  "name": "node-mandrill-email",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mandrill.js",
+  "scripts": {
+    "start": "node mandrill"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahendra0859/node-mandrill.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahendra0859/node-mandrill/issues"
+  },
+  "homepage": "https://github.com/mahendra0859/node-mandrill#readme",
+  "dependencies": {
+    "dotenv": "^7.0.0",
+    "node-mandrill": "^1.0.1"
+  }
+}
